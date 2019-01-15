@@ -1,4 +1,5 @@
 # multi armed bandit tutorial
+html page: https://khlee88.github.io/multi_armed_bandit_tutorial/
 
 1. Bandit Problem
 2. Toy DataSet
